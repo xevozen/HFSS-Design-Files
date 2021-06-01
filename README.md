@@ -5,14 +5,14 @@
 :pushpin: Different transmission line,  waveguide and antenna model and simulation using HFSS software.
 -------------
 
- :crown: [Visit Repository](https://github.com/xevozen/Engnr.ml.git "View Repository")
+ :crown: [Visit Repository](https://github.com/xevozen/HFSS-Design-Files.git "View Repository")
 
   - Twin Wire Transmission Line
   - Co Axial Transmission LIne
   - WR 90 Waveguide
 
 ### :alien: Installation
-> ```git clone https://github.com/xevozen/Engnr.ml.git```
+> ```git clone https://github.com/xevozen/HFSS-Design-Files.git```
 
 ### :gear: Configuration
 Simply download the files and open using HFSS software. All models are working.
