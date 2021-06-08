@@ -2,7 +2,7 @@
 
 [![Initial Author: Souhardhya Paul](https://img.shields.io/badge/Initial%20Author-Souhardhya%20Paul-red)](https://github.com/xevozen)
 
-:pushpin: Different transmission line,  waveguide and antenna model and simulation using HFSS software.
+:pushpin: Different transmission lines,  waveguides and antenna models and simulation using HFSS software.
 -------------
 
  :crown: [Visit Repository](https://github.com/xevozen/HFSS-Design-Files.git "View Repository")
